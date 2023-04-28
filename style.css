@@ -26,6 +26,7 @@ body {
   font-family: 'Lato', sans-serif;
   background-color: var(--body-background);
   overflow-x: hidden;
+  height: 100%;
 }
 
 button {
@@ -67,7 +68,7 @@ nav {
 }
 
 .logo {
-  width: 40%;
+  width: 30%;
   overflow: hidden;
 }
 
@@ -78,7 +79,8 @@ nav {
 .btn img {
   width: 30%;
   justify-content: flex-start;
-  align-items: flex-start;
+  align-items: center;
+  margin-top: 22px;
   z-index: 11;
 }
 
@@ -95,8 +97,8 @@ nav .btn {
 }
 
 .btn #close-btn {
-  font-size: 50px;
-  color: #ec5242;
+  font-size: 80px;
+  color: #ff1c03;
 }
 
 @media screen and (min-width: 220px) {
@@ -108,9 +110,15 @@ nav .btn {
     display: none;
   }
 
+  .header {
+    background: url('images/background-hero.png');
+    height: 70%;
+    width: 100%;
+    padding-bottom: 100px;
+  }
+
   header {
     position: relative;
-    background: url('images/header-bg.jpg') rgba(0, 0, 200, 0.4);
     background-blend-mode: multiply;
     background-size: cover;
     background-repeat: no-repeat;
@@ -190,14 +198,14 @@ nav .btn {
 
   .hero-title {
     margin-top: 20px;
-    font-size: 3.2rem;
+    font-size: 4.6rem;
     background-image: url('images/rd-2.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-clip: text;
     color: transparent;
-    line-height: 52px;
+    line-height: 65px;
     text-transform: uppercase;
     font-weight: 800;
   }
@@ -208,13 +216,13 @@ nav .btn {
   }
 
   .hero-desc p {
-    font-size: 14px;
+    font-size: 17px;
     line-height: 22px;
     color: var(--dark-color);
   }
 
   .hero-section .hero-first-title {
-    font-size: 1.6rem;
+    font-size: 2.6rem;
     color: var(--dark-red);
   }
 
@@ -223,12 +231,12 @@ nav .btn {
   }
 
   .program-time p {
-    font-size: 12px;
+    font-size: 15px;
     color: var(--dark-color);
   }
 
   .program-time h2 {
-    font-size: 1.9rem;
+    font-size: 2.3rem;
     font-weight: 800;
     line-height: 50px;
     color: var(--dark-color);
@@ -289,7 +297,7 @@ nav .btn {
   }
 
   .course-desc p {
-    font-size: 14px;
+    font-size: 15px;
     line-height: 20px;
   }
 
@@ -371,13 +379,13 @@ nav .btn {
   }
 
   .staff-title p {
-    font-size: 13px;
+    font-size: 15px;
     color: #ec5242;
   }
 
   .staff-desc p {
     color: #272a31;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 20px;
   }
 
@@ -419,13 +427,13 @@ nav .btn {
     position: absolute;
     top: 0;
     bottom: 0;
-    backdrop-filter: blur(2px);
-    filter: brightness(60%);
+    backdrop-filter: blur(10px);
+    filter: brightness(35%);
   }
 
   .link-color {
     font-size: 20px;
-    color: white;
+    color: rgb(0, 0, 0);
   }
 
   .link-color:hover {
@@ -447,7 +455,7 @@ nav .btn {
     background-position: center;
     -webkit-background-clip: text;
     color: transparent;
-    line-height: 52px;
+    line-height: 60px;
     text-transform: uppercase;
     font-weight: 800;
   }
@@ -521,6 +529,7 @@ nav .btn {
 
   .desktop-color {
     width: 100%;
+    padding: 15px 0;
     background-color: white;
     box-shadow: 0 0 4rem rgba(0, 0, 0, 0.4);
   }
@@ -547,7 +556,7 @@ nav .btn {
   }
 
   .hero-desc p {
-    font-size: 12px;
+    font-size: 16px;
   }
 
   .program-time {
@@ -589,11 +598,11 @@ nav .btn {
   }
 
   .footer-content p {
-    font-size: 12px;
+    font-size: 15px;
   }
 
   .course-section .course .course-flex.flex .course-desc p {
-    font-size: 12px;
+    font-size: 15px;
   }
 
   .course-section .course .course-flex .course-image.flex {

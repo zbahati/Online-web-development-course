@@ -1,32 +1,4 @@
 <a name="readme-top"></a>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
-
-
   <h3><b>Online Web development courses</b></h3>
 
 </div>
@@ -59,14 +31,12 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [web development Course Project] <a name="about-project"></a>
 
-**[Web development Course Project]**
+**[Online Web development Course Project]**
   The "Online Web Development Courses" project is a website that offers high-quality web development courses. It includes a Home page with a navigation menu, hero section, course list, our team and Curriculum, and an About page with information about the the courses and Our latest students projects done sections, The website also features a dynamically generated "Our Team" section using JavaScript. It has a responsive layout and follows coding best practices, ensuring it is accessible and user-friendly.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-
 
 <details>
   <summary>Client</summary>
@@ -112,7 +82,7 @@ After you're finished please remove all the comments and instructions!
 
  <p><a href="https://zbahati.github.io/web-development-course/">Online Web development Demo </a></p>
 
- <p><a href="https://www.loom.com/share/82c4ab60f3e44957b7ff351bfa7c1742">Use this Demo Video to introducing the project in General</a>
+ <p>Video to introducing the project in General: <a href="https://www.loom.com/share/82c4ab60f3e44957b7ff351bfa7c1742">click here</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -215,7 +185,11 @@ show me your support by following me on github and giving me a star please .
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse.
+1.
+I would like to express my gratitude to Microverse for introducing me to their bootcamp, which has provided me with the skills and knowledge necessary to complete this project. I am incredibly grateful for the support and guidance I have received from the Microverse community throughout this process. This project has been a great opportunity for me to apply what I have learned and to showcase my abilities as a software developer. Thank you, Microverse, for empowering me to achieve my goals and for being an essential part of my journey.
+
+2.
+I would like to express my gratitude to Microverse for providing me with the opportunity to participate in their bootcamp. The skills and knowledge I have gained through this program have been invaluable to my personal and professional growth. Thank you, Microverse, for helping me take my first steps towards a successful career in software development.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

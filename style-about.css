@@ -6,12 +6,24 @@
 
 .hero-section-about h1 {
   width: 100%;
-  margin: 40px auto;
+  margin: 60px auto;
+  font-size: 4.5rem;
   text-align: center;
 }
 
+@media screen and (max-width: 567px) {
+  .hero-desc-about h1 {
+    font-size: 3rem;
+  }
+}
+
+.hero-first-title-about {
+  font-size: 2.6rem;
+  padding-top: 50px;
+}
+
 .hero-desc-about {
-  padding: 13px 0;
+  padding: 16px 0;
   background-color: rgb(239, 237, 237);
   box-shadow: 0 0 4rem rgba(0, 0, 0, 0.4);
 }
@@ -20,7 +32,7 @@
   width: 90%;
   margin: auto;
   text-align: center;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .contactus {
@@ -30,7 +42,7 @@
 }
 
 .contactus p {
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .ourproject-desc .title {
@@ -38,7 +50,7 @@
 }
 
 .footer-company-desc p {
-  font-size: 13px;
+  font-size: 14px;
 }
 
 .ourproject-desc .title h4 {
@@ -47,12 +59,12 @@
 
 .ourproject-desc .title p {
   text-align: center;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 20px;
 }
 
 .our-project-img {
-  width: 80%;
+  width: 100%;
   margin: auto;
   gap: 20px;
 }
@@ -162,7 +174,7 @@
   }
 
   .latest-projects .title p {
-    font-size: 13px;
+    font-size: 14px;
   }
 
   .latest-projects .title hr {
