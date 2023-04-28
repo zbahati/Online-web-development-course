@@ -4,9 +4,13 @@
   justify-content: center;
 } */
 
+.hero-title.flex-column.hero-title-about {
+  padding: 0 100px;
+}
+
 .hero-section-about h1 {
   width: 100%;
-  margin: 60px auto;
+  margin: 80px auto;
   font-size: 4.5rem;
   text-align: center;
 }
@@ -23,7 +27,8 @@
 }
 
 .hero-desc-about {
-  padding: 16px 0;
+  margin: 30px 0;
+  padding: 50px 0;
   background-color: rgb(239, 237, 237);
   box-shadow: 0 0 4rem rgba(0, 0, 0, 0.4);
 }
@@ -38,6 +43,7 @@
 .contactus {
   text-align: center;
   width: 80%;
+  padding: 30px 0;
   margin: auto;
 }
 
@@ -106,7 +112,6 @@
   width: 100%;
   overflow: hidden;
   background-color: #272a31;
-  margin: 20px 0;
 }
 
 .footer-one {
@@ -248,6 +253,5 @@
   .footer-desc-about {
     background: #272a31;
     color: white;
-    margin: 0;
   }
 }

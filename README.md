@@ -183,13 +183,16 @@ show me your support by following me on github and giving me a star please .
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 🙏1. Acknowledgments <a name="acknowledgements"></a>
 
 1.
 I would like to express my gratitude to Microverse for introducing me to their bootcamp, which has provided me with the skills and knowledge necessary to complete this project. I am incredibly grateful for the support and guidance I have received from the Microverse community throughout this process. This project has been a great opportunity for me to apply what I have learned and to showcase my abilities as a software developer. Thank you, Microverse, for empowering me to achieve my goals and for being an essential part of my journey.
 
-2.
-I would like to express my gratitude to Microverse for providing me with the opportunity to participate in their bootcamp. The skills and knowledge I have gained through this program have been invaluable to my personal and professional growth. Thank you, Microverse, for helping me take my first steps towards a successful career in software development.
+
+## 🙏2. Acknowledgments <a name="acknowledgements"></a>
+ We would like to acknowledge and thank Cindy Shin for her contribution to this project. Original design idea by Cindy Shin in Behance.
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
